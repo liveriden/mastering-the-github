@@ -1,7 +1,7 @@
 аудиоплеер с плейлистом на JavaScript и HTML.
 
 описание кода с примерами в формате разметки Markdown:
-com
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
