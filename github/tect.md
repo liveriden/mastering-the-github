@@ -66,12 +66,12 @@ Also adding an anchor tag directly to the document works as well:
 
 [Гипер](#гипер)  
 [Гипер 2](#гипер-2)  
-[Гипер 3](#гипер-3)  
-[Гипе'рр 2:](#гиперр-2)  
+[Гипе'рр II:](#гиперр-II) 
+[Гипе'рр II: I](#гиперр-II-I)  
 [see above](#login-optional-fields-2)  
-[my-anchor](#my-anchor)  
+[my-anchor](#my-anchor)
 
-[линк-якорный — link-anchor](#линк-якорный---link-anchor)  
+[линк-якорный — link-anchor](#линк-якорный---link-anchor)
 
 .
 
@@ -212,11 +212,12 @@ Also adding an anchor tag directly to the document works as well:
 # линк-якорный - link-anchor  
 
 
-# Гипер
+# Гипер  
 ```
 # Гипе'рp
 ```
-# Гипе'рр 2:
+# Гипе'рр II:  
+# Гипе'рр II: I  
 <h4 id="login-optional-fields-2">
 Optional Fields
 </h4>
