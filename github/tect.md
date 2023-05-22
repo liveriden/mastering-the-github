@@ -1,3 +1,42 @@
+```
+## Title
+
+### Place 1
+
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
+
+### Place's 3: other example
+
+Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
+```
+```html
+Также можно создавать именованные пользовательские якоря,
+если, например, у вас есть куча (под)заголовков с одинаковым названием.
+Для этого в заголовок вставьте HTML-тег:
+
+<h4 id="login-optional-fields">
+Optional Fields
+</h4>
+
+Затем сделайте ссылку на него по атрибуту ID:
+
+[see above](#login-optional-fields)
+
+Также работает добавление тега привязки непосредственно в документ:
+
+<a id="my-anchor"></a>
+```
+
+.
+
+.
+
+.
+
 ---
     tags: [wiktionary-семантика]
     source: https://ru.wiktionary.org/wiki/%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0
@@ -6,125 +45,18 @@
 
 .
 
-[Гиперонимы](#Гиперонимы)  
-[Гиперонимы](#Гипер)  
-[Гиперонимы](##Гипер)
-
 .
 
 .
 
-.
+[Гипер](#Гипер)  
+[Гипер 2](#Гипер_2)  
+[Гипер 3](#Гипер_3)
+[Гипер 2](#Гипер-2)  
+[Гипер 3](#Гипер-3)
+[Гипе'р](#Гипе-р-3)
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-# Гиперонимы
-
-.
+.'
 
 .
 
@@ -237,6 +169,7 @@
 .
 
 # Гипер
+Гипе'р
 
 .
 
@@ -350,7 +283,7 @@
 
 .
 
-## Гипер
+# Гипер 2
 
 .
 
@@ -464,21 +397,119 @@
 
 .
 
-```
-## Title
+# Гипер 3
 
-### Place 1
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
-### Place 2
+.
+
+.
+
+.
+
+.
 
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
+.
+
+.
 
-### Place's 3: other example
+.
+
+.
 
-Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
-```
+.
 
 .
 
