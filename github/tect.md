@@ -209,7 +209,7 @@ Also adding an anchor tag directly to the document works as well:
 
 .
 
-# линк-якорный — link-anchor  
+# линк-якорный - link-anchor  
 
 
 # Гипер
