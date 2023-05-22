@@ -15,7 +15,7 @@
 | [![](../_resources/%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0%20%E2%80%94%20%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/24px-Wikipedia-logo-v2.svg.png)](/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wikipedia-logo-v2.svg) | В [Википедии](https://ru.wikipedia.org/wiki/Main_Page "w:Main Page") есть статья «[семантика](https://ru.wikipedia.org/wiki/%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0 "w:семантика")». |
 
 ## Содержание
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://-myoctocat.com/assets/images/base-octocat.svg)
 - [1 Русский](#Русский)
     - [1.1 семантика I](#семантика_I)
         - [1.1.1 Морфологические и синтаксические свойства](#Морфологические_и_синтаксические_свойства)
