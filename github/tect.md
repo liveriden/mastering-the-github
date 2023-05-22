@@ -71,7 +71,7 @@ Also adding an anchor tag directly to the document works as well:
 [see above](#login-optional-fields-2)  
 [my-anchor](#my-anchor)  
 
-[якорный линк — anchor link](#якорный-линк-anchor-link)  
+[линк-якорный — link-anchor](#линк-якорный---link-anchor)  
 
 .
 
@@ -209,7 +209,7 @@ Also adding an anchor tag directly to the document works as well:
 
 .
 
-# якорный линк—anchor link  
+# линк-якорный — link-anchor  
 
 
 # Гипер
