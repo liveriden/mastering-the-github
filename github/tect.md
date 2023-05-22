@@ -72,6 +72,7 @@ Also adding an anchor tag directly to the document works as well:
 [my-anchor](#my-anchor)
 
 [линк-якорный — link-anchor](#линк-якорный---link-anchor)
+[link'I I: I](#linkI-I-I)
 
 .
 
@@ -222,6 +223,7 @@ Also adding an anchor tag directly to the document works as well:
 Optional Fields
 </h4>
 <a id="my-anchor">my anchor</a>
+# link'I I: I
 
 .
 
