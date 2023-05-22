@@ -66,7 +66,7 @@ Also adding an anchor tag directly to the document works as well:
 
 [Гипер](#гипер)  
 [Гипер 2](#гипер-2)  
-[Гипе'рр II:](#гиперр-II) 
+[Гипе'рр II:](#гиперр-II)  
 [Гипе'рр II: I](#гиперр-II-I)  
 [see above](#login-optional-fields-2)  
 [my-anchor](#my-anchor)
