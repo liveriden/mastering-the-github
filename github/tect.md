@@ -219,13 +219,17 @@ Also adding an anchor tag directly to the document works as well:
 # Гипе'рp
 ```
 # Гипе'рр II:  
-# Гипе'рр II: I  
+# Гипе'рр II: I
+
+<div>
 <h4 id="login-optional-fields-2">
 Optional Fields
 </h4>
 <a id="my-anchor">my anchor</a>
+</div>
+
 # link'I I: I  
-# link'I I: I I
+# link'I I: I I  
 
 .
 
