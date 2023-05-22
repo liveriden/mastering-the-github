@@ -52,7 +52,7 @@ Optional Fields
 [Гипер](#Гипер)  
 [Гипер 2](#Гипер-2)  
 [Гипер 3](#Гипер-3)  
-[Гипе'рр](#Гиперр)  
+[Гипе'рр](#places-3-other-example)  
 [see above](#login-optional-fields)  
 [my-anchor](#my-anchor)  
 
@@ -169,7 +169,10 @@ Optional Fields
 .
 
 # Гипер
+```
 # Гипе'рp
+```
+# Place's 3: other example
 <h4 id="login-optional-fields">
 Optional Fields
 </h4>
