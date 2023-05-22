@@ -225,6 +225,9 @@ Also adding an anchor tag directly to the document works as well:
 <h4 id="login-optional-fields-2">
 Optional Fields
 </h4>
+</div>
+
+<div>
 <a id="my-anchor">my anchor</a>
 </div>
 
