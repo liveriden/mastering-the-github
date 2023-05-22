@@ -52,7 +52,11 @@ Optional Fields
 [Гипер](#Гипер)  
 [Гипер 2](#Гипер_2)  
 [Гипер 3](#Гипер_3)  
-[Гипе'р](#Гипе-р)  
+[Гипер 2](#Гипер-2)  
+[Гипер 3](#Гипер-3)  
+[Гипе'рр](#Гиперр)  
+[see above](#login-optional-fields)  
+[my-anchor](#my-anchor)  
 
 .
 
@@ -167,7 +171,11 @@ Optional Fields
 .
 
 # Гипер
-Гипе'р
+Гипе'рp
+<h4 id="login-optional-fields">
+Optional Fields
+</h4>
+<a id="my-anchor">my anchor</a>
 
 .
 
