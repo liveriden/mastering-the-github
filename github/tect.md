@@ -14,22 +14,37 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
 ```
 ```html
-Также можно создавать именованные пользовательские якоря,
-если, например, у вас есть куча (под)заголовков с одинаковым названием.
-Для этого в заголовок вставьте HTML-тег:
+Также возможно создавать названные пользовательские якоря,
+если, например, у вас есть куча (под) заголовков с тем же именем.
+Чтобы сделать это с заголовком, вставьте HTML -тег:
 
 <h4 id="login-optional-fields">
 Optional Fields
 </h4>
 
-Затем сделайте ссылку на него по атрибуту ID:
+Затем ссылка на него по атрибуту ID:
 
 [see above](#login-optional-fields)
 
-Также работает добавление тега привязки непосредственно в документ:
+Также также работает якорный тег непосредственно в документ:
 
 <a id="my-anchor"></a>
 ```
+<!-- It's also possible to create named custom anchors,
+if for example you have a bunch of (sub-)headings with the same name.
+To do this with a header insert an HTML tag:
+
+<h4 id="login-optional-fields">
+Optional Fields
+</h4>
+
+Then link to it by the ID attribute:
+
+[see above](#login-optional-fields)
+
+Also adding an anchor tag directly to the document works as well:
+
+<a id="my-anchor"></a> -->
 
 .
 
@@ -52,8 +67,8 @@ Optional Fields
 [Гипер](#гипер)  
 [Гипер 2](#гипер-2)  
 [Гипер 3](#гипер-3)  
-[Гипе'рр](#гиперр)  
-[see above](#login-optional-fields)  
+[Гипе'рр](#гиперр-2)  
+[see above](#login-optional-fields-2)  
 [my-anchor](#my-anchor)  
 
 .
@@ -172,8 +187,8 @@ Optional Fields
 ```
 # Гипе'рp
 ```
-# Гипе'рр
-<h4 id="login-optional-fields">
+# Гипе'рр 2:
+<h4 id="login-optional-fields-2">
 Optional Fields
 </h4>
 <a id="my-anchor">my anchor</a>
