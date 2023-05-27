@@ -14,13 +14,14 @@
 
 ..
 
-..  
+..
 
 # git add
 
-## Команда `git add` используется для добавления изменений в индекс (stage), перед тем как они будут зафиксированы коммитом. 
+## Команда `git add` используется для добавления изменений в индекс (stage), перед тем как они будут зафиксированы коммитом.
 
 ### Синтаксис
+
 ```
 git add <file>...
 ```
@@ -28,21 +29,25 @@ git add <file>...
 ### Примеры использования
 
 - Добавление одного файла:
+
   ```
   git add index.html
   ```
 
 - Добавление нескольких файлов:
+
   ```
   git add index.html style.css script.js
   ```
 
 - Добавление всех измененных файлов в текущей директории:
+
   ```
   git add .
   ```
 
 - Добавление всех измененных файлов в текущей директории и поддиректориях:
+
   ```
   git add --all
   ```
@@ -54,13 +59,13 @@ git add <file>...
 
 ### Форматирование вывода в GFM
 
-| Команда | Описание |
-| --- | --- |
-| `git add index.html` | Добавление одного файла |
-| `git add index.html style.css script.js` | Добавление нескольких файлов |
-| `git add .` | Добавление всех измененных файлов в текущей директории |
-| `git add --all` | Добавление всех измененных файлов в текущей директории и поддиректориях |
-| `git add '*.html'` | Добавление всех измененных файлов определенного типа |
+| Команда                                  | Описание                                                                |
+| ---------------------------------------- | ----------------------------------------------------------------------- |
+| `git add index.html`                     | Добавление одного файла                                                 |
+| `git add index.html style.css script.js` | Добавление нескольких файлов                                            |
+| `git add .`                              | Добавление всех измененных файлов в текущей директории                  |
+| `git add --all`                          | Добавление всех измененных файлов в текущей директории и поддиректориях |
+| `git add '*.html'`                       | Добавление всех измененных файлов определенного типа                    |
 
 ..
 
@@ -77,6 +82,7 @@ The git add command adds a file or directory to the index, which is a database o
 The basic usage of the git add command is as follows:
 
 Bash
+
 ```
 $ git add <file_or_directory>
 ```
@@ -90,6 +96,7 @@ This will add the specified file or directory to the index. You can also use the
 Here is an example of how you can use the git add command to add a file to the index:
 
 Bash
+
 ```
 $ echo "Hello, world!" > file.txt
 $ git add file.txt
@@ -112,6 +119,7 @@ This will add the file.txt file to the index, and it will be ready to be committ
 Базовое использование команды git add выглядит следующим образом:
 
 ### Bash
+
 ```
 $ git add <файл_или_каталог>
 ```
@@ -125,6 +133,7 @@ $ git add <файл_или_каталог>
 Вот пример того, как можно использовать команду git add для добавления файла в индекс:
 
 ### Bash
+
 ```
 $ echo "Hello, world!" > file.txt
 $ git add file.txt
@@ -142,9 +151,10 @@ $ git add file.txt
 
 # git add
 
-## Команда `git add` используется для добавления измененных или новых файлов в индекс, чтобы их можно было зафиксировать в коммите. 
+## Команда `git add` используется для добавления измененных или новых файлов в индекс, чтобы их можно было зафиксировать в коммите.
 
 ### Синтаксис использования команды:
+
 ```
 git add <file>
 ```
@@ -152,26 +162,31 @@ git add <file>
 ### Примеры использования:
 
 1. Добавление одного файла в индекс:
+
 ```
 git add index.html
 ```
 
 2. Добавление всех измененных файлов в индекс:
+
 ```
 git add .
 ```
 
 3. Добавление определенной группы файлов в индекс:
+
 ```
 git add *.css
 ```
 
 4. Изменение сообщения последнего коммита (если вы еще не зафиксировали изменения):
+
 ```
 git commit --amend
 ```
 
 5. Отмена добавления файла в индекс:
+
 ```
 git reset <file>
 ```
@@ -290,3 +305,18 @@ https://github.com/git-guides
 `git log`: Просматривать и изучать эволюцию файлов проекта.
 
 `git remote -v`: показать связанные удаленные репозитории и их сохраненное имя, например, origin.
+
+<div align="center">
+<p><strong>Liveriden</strong></p>
+</div>
+
+<div align="center">
+<a href="https://github.com/liveriden" title="Liveriden"><img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" alt="Liveriden logo" width="100" height="100"></a>
+</div>
+
+<div align="center">
+
+[:octocat: Github](https://github.com/)
+
+</div>
+<!-- 'liveridenʳ࿕☦' -->

@@ -31,7 +31,7 @@ https://github.com/liveriden/lidev/blob/0726965b49a0ebc7b2a65520879e5762a6b8f019
 </div>
 
 <div align="center">
-<a href="https://github.com/liveriden"><img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" alt="Liveriden logo" width="100" height="100"></a>
+<a href="https://github.com/liveriden" title="Liveriden"><img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" alt="Liveriden logo" width="100" height="100"></a>
 </div>
 
 <div align="center">
