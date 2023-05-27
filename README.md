@@ -1,7 +1,4 @@
-# mastering-the-github
-
-здесь живут файлы новичка, изучающего github
-here live the files of a beginner learning github
+# здесь живут файлы новичка, изучающего github - here live the files of a beginner learning github
 
 <!--
 .
@@ -14,17 +11,32 @@ here live the files of a beginner learning github
 
 .
 
+-->
+
+<!--
 
 https://github.com/liveriden
 
+
+https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png
+
+https://github.com/liveriden/lidev/blob/main/media/img/smile-browser-image-128x128.png
+
+https://github.com/liveriden/lidev/blob/0726965b49a0ebc7b2a65520879e5762a6b8f019/media/img/smile-browser-image-128x128.png
+
 -->
 
-<!-- <h1 id="-markdown-here-logo-https-raw-github-com-adam-p-markdown-here-master-src-common-images-icon48-png-markdown-here"><img src="https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png" alt="Markdown Here logo"> Markdown Here</h1> -->
-
-<h1 id="-markdown-here-logo-https-raw-github-com-adam-p-markdown-here-master-src-common-images-icon48-png-markdown-here"><img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" alt="Liveriden logo"width="100" height="100">Liveriden</h1>
+<div align="center">
+<p><strong>Liveriden</strong></p>
+</div>
 
 <div align="center">
-  
-[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)<!-- https://github.com/Ky4eryavii-Pon4o/Ky4eryavii-Pon4o -->
+<a href="https://github.com/liveriden"><img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" alt="Liveriden logo" width="100" height="100"></a>
+</div>
+
+<div align="center">
+
+[:octocat: Github](https://github.com/)
+
 </div>
 <!-- 'liveridenʳ࿕☦' -->
