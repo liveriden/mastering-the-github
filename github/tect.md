@@ -67,8 +67,8 @@ Also adding an anchor tag directly to the document works as well:
 
 [линк-якорный — link-anchor](#линк-якорный---link-anchor)  
 [link'I I: I](#linkI-I-I)  
-[link'I I: I I](#linkI-I-I-I)
-[link I](#link-2)
+[link'I I: I I](#linkI-I-I-I)  
+[link I](#link-2)␣␣
 
 .
 
