@@ -15,6 +15,8 @@
 
 [Contribution guidelines for this project](github/notes/potryasayushchij-readme-kuratorskij-spisok.md)
 
+![Contribution guidelines for this project](github/media/img/404.jpeg)
+
 <!--
 
 https://github.com/liveriden
