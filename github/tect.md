@@ -1,18 +1,17 @@
-```
 ## Title
 
-### Place 1
+`### Place 1`
 
 Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
 
-### Place 2
+`### Place 2`
 
 Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
-### Place's 3: other example
+`### Place's 3: other example`
 
 Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
-```
+
 ```html
 Также возможно создавать названные пользовательские якоря,
 если, например, у вас есть куча (под) заголовков с тем же именем.
@@ -30,6 +29,7 @@ Optional Fields
 
 <a id="my-anchor"></a>
 ```
+
 <!-- It's also possible to create named custom anchors,
 if for example you have a bunch of (sub-)headings with the same name.
 To do this with a header insert an HTML tag:
@@ -73,6 +73,7 @@ Also adding an anchor tag directly to the document works as well:
 
 [линк-якорный — link-anchor](#линк-якорный---link-anchor)  
 [link'I I: I](#linkI-I-I)  
+[link'I I: I I](#linkI-I-I-I)
 [link'I I: I I](#linkI-I-I-I)
 
 .
