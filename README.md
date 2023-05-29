@@ -13,6 +13,8 @@
 
 -->
 
+[Contribution guidelines for this project](github/notes/potryasayushchij-readme-kuratorskij-spisok.md)
+
 <!--
 
 https://github.com/liveriden
