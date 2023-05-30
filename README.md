@@ -13,34 +13,30 @@
 
 -->
 
-[Contribution guidelines for this project](github/notes/potryasayushchij-readme-kuratorskij-spisok.md)
 
-![Contribution guidelines for this project](github/media/img/404.jpeg)
 
 <!--
 
-https://github.com/liveriden
+[Contribution guidelines for this project](github/notes/spisok.md)
 
-
-https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png
-
-https://github.com/liveriden/lidev/blob/main/media/img/smile-browser-image-128x128.png
-
-https://github.com/liveriden/lidev/blob/0726965b49a0ebc7b2a65520879e5762a6b8f019/media/img/smile-browser-image-128x128.png
+![Contribution guidelines for this project](github/media/img/404.jpeg)
 
 -->
 
 <div align="center">
-<p><strong>Liveriden</strong></p>
+<strong>Liveriden</strong>
 </div>
-
 <div align="center">
-<a href="https://github.com/liveriden" title="Liveriden"><img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" alt="Liveriden logo" width="100" height="100"></a>
+<a href="https://github.com/liveriden" title="Liveriden">
+<img src="https://github.com/liveriden/lidev/raw/main/media/image/smile-browser-image.png" alt="Liveriden logo (Если Вы видите этот текст, это значит ссылка неработающая, если у Вас есть свободная минутка :) сообщите нам на электронную почту об этом вставив ссылку страницы или описание ситуации в письмо.) (If you see this text, it means the link isn&#39;t working, if you have a spare minute :) let us know by emailing us with the link to the page or a description of the situation.)" width="100" height="100">
+</a>
 </div>
-
 <div align="center">
 
-[:octocat: Github](https://github.com/)
+<p align="justify">
+
+</p>
+<strong>[:octocat: Github](https://github.com/)</strong>
 
 </div>
 <!-- 'liveridenʳ࿕☦' -->
