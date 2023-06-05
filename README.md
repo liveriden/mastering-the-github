@@ -24,19 +24,19 @@
 -->
 
 <div align="center">
-<strong>Liveriden</strong>
-</div>
-<div align="center">
+<h2>Liveriden</h2>
 <a href="https://github.com/liveriden" title="Liveriden">
-<img src="https://github.com/liveriden/lidev/raw/main/media/image/smile-browser-image.png" alt="Liveriden logo (Если Вы видите этот текст, это значит ссылка неработающая, если у Вас есть свободная минутка :) сообщите нам на электронную почту об этом вставив ссылку страницы или описание ситуации в письмо.) (If you see this text, it means the link isn&#39;t working, if you have a spare minute :) let us know by emailing us with the link to the page or a description of the situation.)" width="100" height="100">
+<img alt="Liveriden logo - (Если Вы видите этот текст, это значит ссылка неработающая, если у Вас есть свободная минутка :) сообщите об этом  на электронную почту вставив ссылку страницы в письмо или опишите ситуацию.) (If You see this text, it means the link is broken, if You have a free minute :) let know by e-mail by inserting the page link in the letter or describe the situation.)" height="128" src="github-assets/image/smile-browser-image.png" width="128" />
+  
+  <img alt="Liveriden logo - (Если Вы видите этот текст, это значит ссылка неработающая, если у Вас есть свободная минутка :) сообщите об этом  на электронную почту вставив ссылку страницы в письмо или опишите ситуацию.) (If You see this text, it means the link is broken, if You have a free minute :) let know by e-mail by inserting the page link in the letter or describe the situation.)" height="128" src="https://raw.githubusercontent.com/liveriden/lidev/main/github-assets/image/smile-browser-image-128x128.png" width="128" />
+  
+  <img alt="Liveriden logo - (Если Вы видите этот текст, это значит ссылка неработающая, если у Вас есть свободная минутка :) сообщите об этом  на электронную почту вставив ссылку страницы в письмо или опишите ситуацию.) (If You see this text, it means the link is broken, if You have a free minute :) let know by e-mail by inserting the page link in the letter or describe the situation.)" height="128" src="https://github.com/liveriden/lidev/raw/main/github-assets/image/smile-browser-image.png" width="128" />
+  
 </a>
 </div>
 <div align="center">
 
-<p align="justify">
-
-</p>
-<strong>[:octocat: Github](https://github.com/)</strong>
+<b>[:octocat: Github](https://github.com/)</b>
 
 </div>
-<!-- 'liveridenʳ࿕☦' -->
+<!--'liveridenʳ࿕☦'-->
