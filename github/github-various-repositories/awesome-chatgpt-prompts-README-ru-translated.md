@@ -32,6 +32,7 @@ author: ф
 **[Посмотреть на GitHub](https://github.com/f/awesome-chatgpt-prompts)**
 
 **[Вид на обнимающее лицо huggingface.co](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+
 **[huggingface.co](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
 
 **Скачать настольное приложение ChatGPT** : **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
