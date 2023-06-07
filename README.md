@@ -8,7 +8,7 @@
 </div>
 <div align="center">
 
-<b>[:octocat: Github](https://github.com/)</b>
+**[:octocat: Github](https://github.com/)**
 
 </div>
-<!-- liveridenʳ࿕☦ -->
+<!-- liveridenʳ࿕☦ 2023-06-07 -->
